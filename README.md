@@ -1,4 +1,4 @@
-[Buy on Codester]()
+[Buy on Codester](https://www.codester.com/Tang/shop)
 
 ### NopCommerce ProAdmin plugin introduction
 
@@ -33,4 +33,4 @@ ProAdmin is a professional management background theme dedicated to nopCommerce 
 ![](/assets/hidden.gif)
 
 
-[Buy on Codester]()
+[Buy on Codester](https://www.codester.com/Tang/shop)

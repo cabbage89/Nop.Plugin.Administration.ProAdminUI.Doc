@@ -14,6 +14,13 @@ Support both horizontal and vertical menu modes, open multiple iframe tabs in a 
 
 **超链接或下载源代码的说明**
 
+Plug-in source code (including packaged front-end resources)
 
+https://github.com/cabbage89/Nop.Plugin.Administration.ProAdminUI
+
+
+Core front-end code
+
+https://github.com/cabbage89/nopCommerce-ProAdmin-Theme
 
 **超链接或下载“准备部署”软件包的说明**
