@@ -1,4 +1,4 @@
-[在Codester上购买](https://www.codester.com/Tang/shop)
+[在Codester上购买](https://www.codester.com/items/32615/nopcommerce-proadminui?ref=Tang)
 
 ### NopCommerce ProAdmin 插件介绍
 
@@ -25,4 +25,4 @@ ProAdmin 是专用于 nopCommerce 4.30,4.40的管理后台专业主题,它提供
 ![](/assets/hidden.gif)
 
 
-[在Codester上购买](https://www.codester.com/Tang/shop)
+[在Codester上购买](https://www.codester.com/items/32615/nopcommerce-proadminui?ref=Tang)
