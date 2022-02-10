@@ -24,13 +24,16 @@ ProAdmin is a professional management background theme dedicated to nopCommerce 
 
 ### Add menu to fav Demo
 ![](/assets/fav.gif)
+[Open new tab for larger image](https://raw.githubusercontent.com/cabbage89/Nop.Plugin.Administration.ProAdminUI.Doc/main/assets/fav.gif)
 
 ### Horizontal menu switch vertical menu demo
 ![](/assets/menu.gif)
+[Open new tab for larger image](https://raw.githubusercontent.com/cabbage89/Nop.Plugin.Administration.ProAdminUI.Doc/main/assets/menu.gif)
 
 
 ### Hide some modules
 ![](/assets/hidden.gif)
+[Open new tab for larger image](https://github.com/cabbage89/Nop.Plugin.Administration.ProAdminUI.Doc/blob/main/assets/hidden.gif)
 
 
 [Buy on Codester](https://www.codester.com/items/32615/nopcommerce-proadminui?ref=Tang)
