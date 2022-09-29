@@ -1,4 +1,4 @@
-[Buy on Codester](https://www.codester.com/items/32615/nopcommerce-proadminui?ref=Tang)
+### [Buy on Codester](https://www.codester.com/items/32615/nopcommerce-proadminui?ref=Tang)
 
 ### NopCommerce ProAdmin plugin introduction
 
@@ -22,6 +22,10 @@ ProAdmin is a professional management background theme dedicated to nopCommerce 
 
 - Support English and Simplified Chinese
 
+### [Online demo](https://tbcheng.bsite.net/login?returnUrl=%2F)  
+**User Name** : demo@demo.com   
+**Password** : 111111     
+
 ### Add menu to fav Demo
 ![](/assets/fav.gif)
 [Open new tab for larger image](https://raw.githubusercontent.com/cabbage89/Nop.Plugin.Administration.ProAdminUI.Doc/main/assets/fav.gif)
@@ -36,4 +40,4 @@ ProAdmin is a professional management background theme dedicated to nopCommerce 
 [Open new tab for larger image](https://github.com/cabbage89/Nop.Plugin.Administration.ProAdminUI.Doc/blob/main/assets/hidden.gif)
 
 
-[Buy on Codester](https://www.codester.com/items/32615/nopcommerce-proadminui?ref=Tang)
+### [Buy on Codester](https://www.codester.com/items/32615/nopcommerce-proadminui?ref=Tang)
